@@ -16,6 +16,14 @@
 
 ## There are various folder you see:-
   * **lcd_display_1.3_inch**
+  * **lora_home_automation**
+  * **lora_receiver**
+  * **pi_relay6**
+  * **relay4_zero**
+  * **rfid_hat**
+  * **round_lcd_1.28_hat**
+  * **sd_card**
+  
 
 
 
