@@ -16,7 +16,7 @@
 
 ## There are various folder you see:-
   * **lcd_display_1.3_inch** 
-    * g
+    * 1._3_lcd_display.py
   * **lora_home_automation**
   * **lora_receiver**
   * **pi_relay6**
