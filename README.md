@@ -11,6 +11,9 @@
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img6.png" />
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img.JPG" />
 
+## Pin Out Of SD Card Module
+<img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img1.JPG" />
+
 
 
 
