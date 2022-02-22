@@ -15,15 +15,28 @@
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img1.JPG" />
 
 ## There are various folder you see:-
-  * **lcd_display_1.3_inch** 
-    * 1._3_lcd_display.py
-  * **lora_home_automation**
-  * **lora_receiver**
-  * **pi_relay6**
-  * **relay4_zero**
-  * **rfid_hat**
-  * **round_lcd_1.28_hat**
-  * **sd_card**
+  * **lcd_display_1.3_inch** - this folder have two files
+    * **1._3_lcd_display.p**y - demo code of 1.3 lcd display
+    * **firmware.uf2** - This is the firmware of lcd display,you need to drag and drop the firmware to raspberry pi pico
+  * **lora_home_automation** -  this folder have one file
+    * **homeautomation.py** - Run this file to control home appliances
+  * **lora_receiver** - this folder have two files
+    * **lora_receiver.py** - receiver code
+    * **firmware.uf2** -  lcd display firmware
+  * **pi_relay6** - this folder have one file
+    * **6_channnel_relay.py** - Run this file to control relay
+  * **relay4_zero** - this folder have one file
+    * **relay_4_zero.py** - Run this file to control relay zero
+  * **rfid_hat** - this folder have two files
+    * **rfid_hat.py** - Run this file to read rfid cards
+    * **ssd1306.py** - this is the library of oled display, save this file to raspberry pi pico
+  * **round_lcd_1.28_hat** - this folder have two files
+    * **round_lcd_1_28.py** - demo code of 1.28 round lcd display
+    * **firmware.uf2** - This is the firmware of round lcd display, drag and drop the firmware to raspberry pi pico
+  * **sd_card** - this folder have three files
+    * **sdcard.py** - This is the library of sdcard onboard sd card module, save this file to raspberry pi pico
+    * **firmware.uf2** - This is the firmware of round lcd display, drag and drop the firmware to raspberry pi pico
+    * **main.py** - you need to run this file to read/write sd card
   
 
 
