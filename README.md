@@ -7,5 +7,10 @@
 
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img4.png" />
 
+## Pin Out Of StackyPi
+<img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img6.png" />
+<img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img.jpg" />
+
+
 
 
