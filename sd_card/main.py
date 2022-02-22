@@ -32,7 +32,7 @@ tft.fill(gc9a01.BLACK)
 
 
 def sdtest(data):
-    spi=SPI(0,sck=Pin(10),mosi=Pin(11),miso=Pin(12))
+    spi=SPI(1,sck=Pin(10),mosi=Pin(11),miso=Pin(12))
     sd=sdcard.SDCard(spi,Pin(9))
     vfs = os.VfsFat(sd)
     os.mount(vfs, "/fc")
