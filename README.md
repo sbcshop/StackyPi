@@ -5,7 +5,7 @@
 
 ## StackyPi consists of standard Raspberry Pi 40 pins on its board for Raspberry Pi HAT. One can plug Raspberry Pi HAT by directly putting it on the StackyPi that has the power pins for the connection. StackyPi is a board on which, clear and descriptive pin labels make the process easier for the user.
 
-<img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img4.jpg" />
+<img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img4.png" />
 
 
 
