@@ -15,7 +15,8 @@
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img1.JPG" />
 
 ## There are various folder you see:-
-  * **lcd_display_1.3_inch**
+  * **lcd_display_1.3_inch** 
+    * g
   * **lora_home_automation**
   * **lora_receiver**
   * **pi_relay6**
