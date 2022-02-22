@@ -15,15 +15,6 @@ led_2.value(1)#initally led_2 at LOW
 led_3.value(1)#initally led_3 at LOW
 
 
-request1 = 0;
-flag_1=0;
-
-request2 = 0;
-flag_2=0;
-
-request3 = 0;
-flag_3=0;
-
 while 1:
     led_1.value(1)#initally led_1 at LOW
     led_2.value(1)#initally led_2 at LOW
