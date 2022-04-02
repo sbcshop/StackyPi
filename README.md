@@ -17,7 +17,7 @@
 ## There are various folder you see:-
   * **lcd_display_1.3_inch** - this folder have two files
     * **1._3_lcd_display.p**y - demo code of 1.3 lcd display
-    * **firmware.uf2** - This is the firmware of lcd display,you need to drag and drop the firmware to raspberry pi pico
+    * **firmware.uf2** - This is the firmware of lcd display.press boot button then plug usb to pc then release button ,you need to drag and drop the firmware to stackypi 
   * **lora_home_automation** -  this folder have one file
     * **homeautomation.py** - Run this file to control home appliances
   * **lora_receiver** - this folder have two files
@@ -29,13 +29,13 @@
     * **relay_4_zero.py** - Run this file to control relay zero
   * **rfid_hat** - this folder have two files
     * **rfid_hat.py** - Run this file to read rfid cards
-    * **ssd1306.py** - this is the library of oled display, save this file to raspberry pi pico
+    * **ssd1306.py** - this is the library of oled display, save this file to stackypi 
   * **round_lcd_1.28_hat** - this folder have two files
     * **round_lcd_1_28.py** - demo code of 1.28 round lcd display
-    * **firmware.uf2** - This is the firmware of round lcd display, drag and drop the firmware to raspberry pi pico
+    * **firmware.uf2** - This is the firmware of round lcd display, drag and drop the firmware to stackypi 
   * **sd_card** - this folder have three files
-    * **sdcard.py** - This is the library of sdcard onboard sd card module, save this file to raspberry pi pico
-    * **firmware.uf2** - This is the firmware of round lcd display, drag and drop the firmware to raspberry pi pico
+    * **sdcard.py** - This is the library of sdcard onboard sd card module, save this file to stackypi 
+    * **firmware.uf2** - This is the firmware of round lcd display, drag and drop the firmware to stackypi
     * **main.py** - you need to run this file to read/write sd card
   * **led_cube** - inside this folder there is a file name "led_cube.py",run this file before this mount picube on the StackyPi
   
