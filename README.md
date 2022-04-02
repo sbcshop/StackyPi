@@ -39,8 +39,6 @@
     * **main.py** - you need to run this file to read/write sd card
   * **led_cube** - inside this folder there is a file name "led_cube.py",run this file before this mount picube on the StackyPi
   
-## Getting Started Video Of StackyPi
-https://www.youtube.com/watch?v=s3eNhuVTX0Q
 
 
 
