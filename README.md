@@ -11,7 +11,7 @@
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img6.png" />
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img.JPG" />
 
-## On board Status led of stackypi is connected with GP25
+## On board Status led of stackypi is connected with GP25 Pin
 
 ## Pin Out Of SD Card Module
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img1.JPG" />
