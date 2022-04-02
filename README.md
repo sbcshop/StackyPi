@@ -12,7 +12,7 @@
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img.JPG" />
 
 ## Pin Out Of SD Card Module
-<img src= "https://github.com/sbcshop/StackyPi/blob/main/images/Capture.JPG" />
+<img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img1.JPG" />
 
 ## There are various folder you see:-
   * **lcd_display_1.3_inch** - this folder have two files
