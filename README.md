@@ -37,7 +37,7 @@
     * **round_lcd_1_28.py** - demo code of 1.28 round lcd display
     * **firmware.uf2** - This is the firmware of round lcd display, drag and drop the firmware to stackypi 
   * **sd_card** - this folder have three files
-    * **sdcard.py** - This is the library of sdcard onboard sd card module, save this file to stackypi 
+    * **sdcard.py** - This is the library of sdcard onboard sd card module, save this file to stackypi. save this library inside pico
     * **firmware.uf2** - This is the firmware of round lcd display, drag and drop the firmware to stackypi
     * **main.py** - you need to run this file to read/write sd card
   * **led_cube** - inside this folder there is a file name "led_cube.py",run this file before this mount picube on the StackyPi
