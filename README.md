@@ -11,6 +11,13 @@
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img6.png" />
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img.JPG" />
 
+## For setup the Board in thonny </b>
+* Now connect USB Cable on USB Port of Pico.
+* Open Thonny IDE and Choose interpreter as MicroPython (Raspberry Pi pico).
+
+<img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
+ 
+ 
 ## On board Status led of stackypi is connected with GP25 Pin
 ## Already we install the micropython on StackyPi
 
