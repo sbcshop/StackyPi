@@ -15,6 +15,9 @@
 * Now connect USB Cable on USB Port of Pico.
 * Open Thonny IDE and Choose interpreter as MicroPython (Raspberry Pi pico). Then click on install and update firmware
 <img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
+
+Or you can download from below link:
+https://micropython.org/download/rp2-pico/
  
  
 ## On board Status led of stackypi is connected with GP25 Pin
