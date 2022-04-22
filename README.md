@@ -13,8 +13,7 @@
 
 ## For setup the Board in thonny </b>
 * Now connect USB Cable on USB Port of Pico.
-* Open Thonny IDE and Choose interpreter as MicroPython (Raspberry Pi pico).
-
+* Open Thonny IDE and Choose interpreter as MicroPython (Raspberry Pi pico). Then click on install and update firmware
 <img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
  
  
