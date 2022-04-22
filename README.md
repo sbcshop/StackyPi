@@ -27,10 +27,11 @@ https://micropython.org/download/rp2-pico/
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img1.JPG" />
 
 ## There are various folder you see:-
+**There are some example codes below**
+
   * **lcd_display_1.3_inch** - this folder have two files
     * **1._3_lcd_display.p**y - demo code of 1.3 lcd display
     * **firmware.uf2** - This is the firmware of lcd display.press boot button then plug usb to pc then release button ,you need to drag and drop the firmware to stackypi 
-**There are some example codes below**
   * **lora_home_automation** -  this folder have one file
     * **homeautomation.py** - Run this file to control home appliances
   * **lora_receiver** - this folder have two files
