@@ -21,6 +21,8 @@ https://micropython.org/download/rp2-pico/
  
  
 ## On board Status led of stackypi is connected with GP25 Pin
+### Run this file **led_blink.py** to blink onboard status led
+
 ## Already we install the micropython on StackyPi
 
 ## Pin Out Of SD Card Module
