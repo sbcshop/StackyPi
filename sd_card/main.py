@@ -2,7 +2,6 @@
 Project   :- PICO LOGGER 
 Developed :- SB-COMPONENTS
 Date      :- 16/06/2021
-Firmware  :- Demo code  for PICO LOGGER
 CODE DISCREPTION :-
                    
 '''
