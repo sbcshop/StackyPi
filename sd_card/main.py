@@ -7,28 +7,10 @@ CODE DISCREPTION :-
                    
 '''
 import random
-import gc9a01
-import italicc
-
-import vga1_bold_16x32 as font
-import vga1_bold_16x16 as font1
-
 from machine import Pin, SPI ,UART
 import sdcard
 import os
 import utime
-
-spi = SPI(0, baudrate=40000000, sck=Pin(2), mosi=Pin(3))
-tft = gc9a01.GC9A01(spi,240,240,reset=Pin(8, Pin.OUT),cs=Pin(5, Pin.OUT),dc=Pin(22, Pin.OUT),backlight=Pin(26, Pin.OUT),rotation=1)
-tft.init()
-tft.fill(gc9a01.BLACK)
-utime.sleep(0.5)
-tft.text(font, "RP2040 Round", 20, 50, gc9a01.RED)
-tft.text(font, "Display Board 1.28", 20, 80, gc9a01.YELLOW)
-tft.text(font, "1.28(240x240)", 20, 120, gc9a01.BLUE)
-tft.text(font, "SD card test", 20, 150, gc9a01.GREEN)
-utime.sleep(2) 
-tft.fill(gc9a01.BLACK)
 
 
 def sdtest(data):
