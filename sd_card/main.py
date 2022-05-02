@@ -18,9 +18,7 @@ def sdtest(data):
     vfs = os.VfsFat(sd)
     os.mount(vfs, "/fc")
     print("Filesystem check")
-    tft.text(font, "SD", 100, 40, gc9a01.BLUE)
-    tft.text(font, "Card detect", 30, 80, gc9a01.YELLOW)
-    tft.text(font, "Successfully", 20, 120, gc9a01.RED)
+
     print(os.listdir("/fc"))
 
     fn = "/fc/File.txt"
