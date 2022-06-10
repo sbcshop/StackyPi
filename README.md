@@ -11,7 +11,7 @@
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img6.png" />
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img.JPG" />
 
-## Download Thonny
+## Download Thonny IDE 
 
 https://thonny.org/
 
