@@ -11,6 +11,10 @@
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img6.png" />
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img.JPG" />
 
+## Download Thonny
+
+https://thonny.org/
+
 ## For setup the Board in thonny </b>
 * Now connect USB Cable on USB Port of Pico.
 * Press boot button on stackypi then plug in computer. after that release the button.Open Thonny IDE and Choose interpreter as MicroPython (Raspberry Pi pico). Then click on install and update firmware
