@@ -32,8 +32,7 @@ https://micropython.org/download/rp2-pico/
 ## Pin Out Of SD Card Module
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img1.JPG" />
 
-## There are various folder you see:-
-**There are some example codes below**
+## There are some example codes below
 
   * **lcd_display_1.3_inch** - this folder have two files
     * **1._3_lcd_display.p**y - demo code of 1.3 lcd display
