@@ -11,6 +11,11 @@
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img6.png" />
 <img src= "https://github.com/sbcshop/StackyPi/blob/main/images/img.JPG" />
 
+## Point need to remember
+There is a printing error on the PCB of StackyPi version v1. CLK and RST text on the board is reversed; the real SWCLK or CLK pin is on the RESET side (bottom), the RST pin is on the CLK side (top), and SWIO or IO is on the centre.
+
+<img src = "https://github.com/sbcshop/StackyPi/blob/main/images/img7.jpg"/>
+
 ## Download Thonny IDE 
 
 https://thonny.org/
